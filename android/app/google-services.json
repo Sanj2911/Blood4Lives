@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809810494177",
+    "project_id": "save-lives-a7e08",
+    "storage_bucket": "save-lives-a7e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809810494177:android:c0ad2bc3627e7c437aeda0",
+        "android_client_info": {
+          "package_name": "com.example.savelives"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8rRBJecHou7U4dgC5eN3p-kym_0p7vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
