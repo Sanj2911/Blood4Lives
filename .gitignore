@@ -43,3 +43,5 @@ app.*.map.json
 /android/app/release
 
 firebase.json
+google-services.json  # For Android
+
