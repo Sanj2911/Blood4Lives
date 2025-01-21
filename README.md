@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Blood4Lives
+=======
 #Blood Donation App
 A feature-rich mobile application designed to streamline the blood donation process by connecting donors and recipients in real-time. This app offers advanced features such as location tracking, emergency alerts, and donation history management.
 
@@ -33,3 +36,4 @@ screens/: All app screens (e.g., Login, Dashboard, Donation History).
 services/: Firebase and backend interaction services.
 models/: Data models (e.g., User, Donor, Recipient).
 widgets/: Reusable UI components.
+>>>>>>> master
