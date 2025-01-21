@@ -39,3 +39,5 @@ ios/Flutter/Generated.xcodeproj
 key.properties
 **/*.keystore
 **/*.jks
+
+google-services.json
