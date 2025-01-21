@@ -1,3 +1,4 @@
+
 # Miscellaneous
 *.class
 *.log
@@ -42,6 +43,14 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+<<<<<<< HEAD
 firebase.json
 google-services.json  # For Android
 
+=======
+# Firebase configuration files
+google-services.json
+GoogleService-Info.plist
+.env
+firebase.json
+>>>>>>> origin/master
