@@ -1,0 +1,824 @@
+[
+    {
+        "name": "Colombo East Base Hospital (CEBH) Mulleriyawa",
+        "latitude": 6.924892799999999,
+        "longitude": 79.9429138,
+        "contact": "0112 549 390"
+    },
+    {
+        "name": "District Base Hospital Theldeniya",
+        "latitude": 7.307130799999999,
+        "longitude": 80.7642927,
+        "contact": "0812 374 055"
+    },
+    {
+        "name": "Government Hospital - Maligawatte",
+        "latitude": 6.932326199999999,
+        "longitude": 79.87134429999999,
+        "contact": "0112 435 448"
+    },
+    {
+        "name": "District General Hospital - Matara",
+        "latitude": 5.9479036,
+        "longitude": 80.5496853,
+        "contact": "0412 222 261"
+    },
+    {
+        "name": "Base Hospital Pimbura",
+        "latitude": 6.5759488,
+        "longitude": 80.1583708,
+        "contact": "0342 244 461"
+    },
+    {
+        "name": "District General Hospital Matale",
+        "latitude": 7.4610981,
+        "longitude": 80.6247132,
+        "contact": "0662 222 261"
+    },
+    {
+        "name": "National Hospital of Sri Lanka",
+        "latitude": 6.9187429,
+        "longitude": 79.86899199999999,
+        "contact": "0112 691 111"
+    },
+    {
+        "name": "District Hospital Divulapitiya / Horagasmulla Hospital",
+        "latitude": 7.216885400000001,
+        "longitude": 80.01322929999999,
+        "contact": "0312 246 261"
+    },
+    {
+        "name": "District Hospital Wethara",
+        "latitude": 6.7845247,
+        "longitude": 79.9757237,
+        "contact": "0112 704 277"
+    },
+    {
+        "name": "Base Hospital - Padaviya",
+        "latitude": 8.832325299999999,
+        "longitude": 80.7690326,
+        "contact": "0252 253 261"
+    },
+    {
+        "name": "District Hospital - Medagama",
+        "latitude": 7.0391812,
+        "longitude": 81.2749618,
+        "contact": "0552 266 462"
+    },
+    {
+        "name": "District Hospital",
+        "latitude": 6.738022900000001,
+        "longitude": 81.0168398,
+        "contact": "N/A"
+    },
+    {
+        "name": "Divisional Hospital, Thalangama",
+        "latitude": 6.9066421,
+        "longitude": 79.9285791,
+        "contact": "0112 862 313"
+    },
+    {
+        "name": "Out Patient Department Clinic, National Hospital of Sri Lanka",
+        "latitude": 6.918639199999999,
+        "longitude": 79.8658945,
+        "contact": "N/A"
+    },
+    {
+        "name": "District Hospital Beliatta",
+        "latitude": 6.051015599999999,
+        "longitude": 80.7395537,
+        "contact": "0472 243 261"
+    },
+    {
+        "name": "District General Hospital Negombo",
+        "latitude": 7.2125645,
+        "longitude": 79.8485057,
+        "contact": "0312 222 261"
+    },
+    {
+        "name": "District Base Hospital Dickoya",
+        "latitude": 6.8553853,
+        "longitude": 80.6008911,
+        "contact": "0512 222 261"
+    },
+    {
+        "name": "Base Hospital Rikillagaskada",
+        "latitude": 7.145326799999999,
+        "longitude": 80.7825743,
+        "contact": "0812 365 261"
+    },
+    {
+        "name": "District Hospital Bingiriya",
+        "latitude": 7.598636000000001,
+        "longitude": 79.9319831,
+        "contact": "0322 246 160"
+    },
+    {
+        "name": "Divisional Hospital A - Dankotuwa",
+        "latitude": 7.296742699999999,
+        "longitude": 79.888233,
+        "contact": "0312 258 260"
+    },
+    {
+        "name": "District General Hospital Horana",
+        "latitude": 6.7106439,
+        "longitude": 80.06658879999999,
+        "contact": "0342 262 379"
+    },
+    {
+        "name": "Base Hospital Dehiattakandiya",
+        "latitude": 7.672906799999999,
+        "longitude": 81.0433745,
+        "contact": "0272 250 344"
+    },
+    {
+        "name": "Polgahawela Regional Hospital",
+        "latitude": 7.3375225,
+        "longitude": 80.3038225,
+        "contact": "0372 243 261"
+    },
+    {
+        "name": "District General Hospital Kilinochchi",
+        "latitude": 9.3727285,
+        "longitude": 80.4117857,
+        "contact": "0212 285 329"
+    },
+    {
+        "name": "District Hospital Piliyandala",
+        "latitude": 6.803939,
+        "longitude": 79.92262699999999,
+        "contact": "0112 614 264"
+    },
+    {
+        "name": "Divisional Hospital (A) - Undugoda",
+        "latitude": 7.1404212,
+        "longitude": 80.3495792,
+        "contact": "0352 278 661"
+    },
+    {
+        "name": "Base Hospital Mahaoya",
+        "latitude": 7.530796100000001,
+        "longitude": 81.3555488,
+        "contact": "0632 244 061"
+    },
+    {
+        "name": "Athurugiriya Hospital",
+        "latitude": 6.8811599,
+        "longitude": 79.9923,
+        "contact": "0112 561 229"
+    },
+    {
+        "name": "Walasmulla Base Hospital",
+        "latitude": 6.146848299999999,
+        "longitude": 80.6982249,
+        "contact": "0472 245 261"
+    },
+    {
+        "name": "District General Hospital Hambantota (New)",
+        "latitude": 6.1567191,
+        "longitude": 81.11052699999999,
+        "contact": "0472 256 403"
+    },
+    {
+        "name": "District Base Hospital Dambulla",
+        "latitude": 7.872573900000001,
+        "longitude": 80.6508617,
+        "contact": "0662 284 761"
+    },
+    {
+        "name": "District Hospital - Kandeketiya",
+        "latitude": 7.1715522,
+        "longitude": 81.00554369999999,
+        "contact": "0552 245 661"
+    },
+    {
+        "name": "District General Hospital, Gampaha",
+        "latitude": 7.091359799999999,
+        "longitude": 80.0007092,
+        "contact": "0332 222 261"
+    },
+    {
+        "name": "Valaichchenai Base Hospital",
+        "latitude": 7.911314999999998,
+        "longitude": 81.53304639999999,
+        "contact": "0652 257 721"
+    },
+    {
+        "name": "Kithulgala District Hospital",
+        "latitude": 6.9988826,
+        "longitude": 80.36543669999999,
+        "contact": "N/A"
+    },
+    {
+        "name": "District hospital Kandana",
+        "latitude": 7.0410016,
+        "longitude": 79.9020621,
+        "contact": "0112 236 225"
+    },
+    {
+        "name": "District General Hospital Chilaw",
+        "latitude": 7.572329799999999,
+        "longitude": 79.7973064,
+        "contact": "0322 223 261"
+    },
+    {
+        "name": "Divisional Hospital - Dolosbage",
+        "latitude": 7.0818494,
+        "longitude": 80.47122329999999,
+        "contact": "0542 244 261"
+    },
+    {
+        "name": "District General Hospital - Avissawella",
+        "latitude": 6.957084699999999,
+        "longitude": 80.2073814,
+        "contact": "0362 222 261"
+    },
+    {
+        "name": "Base Hospital - Galgamuwa",
+        "latitude": 8.0012036,
+        "longitude": 80.27723519999999,
+        "contact": "0372 253 061"
+    },
+    {
+        "name": "District General Hospital Mannar",
+        "latitude": 8.9816618,
+        "longitude": 79.90457359999999,
+        "contact": "0232 222 261"
+    },
+    {
+        "name": "Divisional Hospital Pamunuwa",
+        "latitude": 7.2454618,
+        "longitude": 80.5647753,
+        "contact": "0812 315 252"
+    },
+    {
+        "name": "Divisional Hospital Watawala",
+        "latitude": 6.9430755,
+        "longitude": 80.5403566,
+        "contact": "0512 237 261"
+    },
+    {
+        "name": "Hiniduma District Hospital",
+        "latitude": 6.3318044,
+        "longitude": 80.3224819,
+        "contact": "0913 783 035"
+    },
+    {
+        "name": "Girandurukotte District Hospital",
+        "latitude": 7.469390000000001,
+        "longitude": 81.01910509999999,
+        "contact": "0272 254 261"
+    },
+    {
+        "name": "Government Hospital",
+        "latitude": 7.156967,
+        "longitude": 80.6303763,
+        "contact": "N/A"
+    },
+    {
+        "name": "District Hospital Pussellawa",
+        "latitude": 7.1162543,
+        "longitude": 80.6249311,
+        "contact": "0812 478 261"
+    },
+    {
+        "name": "Divisional Hospital Maldeniya",
+        "latitude": 7.0281785,
+        "longitude": 80.647176,
+        "contact": "0512 233 262"
+    },
+    {
+        "name": "Base Hospital Diyatalawa",
+        "latitude": 6.8055498,
+        "longitude": 80.9563659,
+        "contact": "0572 229 060"
+    },
+    {
+        "name": "District Hospital Ingiriya",
+        "latitude": 6.7411343,
+        "longitude": 80.16207450000002,
+        "contact": "0342 269 261"
+    },
+    {
+        "name": "Colombo North Teaching Hospital (Ragama)",
+        "latitude": 7.028621599999999,
+        "longitude": 79.9242517,
+        "contact": "0112 959 262"
+    },
+    {
+        "name": "Bandarawela District Hospital",
+        "latitude": 6.8400446,
+        "longitude": 80.9848626,
+        "contact": "0572 222 661"
+    },
+    {
+        "name": "District General Hospital Polonnaruwa",
+        "latitude": 7.943001099999999,
+        "longitude": 81.0091113,
+        "contact": "0272 222 261"
+    },
+    {
+        "name": "District General Hospital Monaragala",
+        "latitude": 6.8913557,
+        "longitude": 81.3425783,
+        "contact": "0552 276 261"
+    },
+    {
+        "name": "District Hospital - Urubokka",
+        "latitude": 6.2825643,
+        "longitude": 80.633237,
+        "contact": "0412 272 261"
+    },
+    {
+        "name": "District General Hospital Trincomalee",
+        "latitude": 8.5648599,
+        "longitude": 81.2394451,
+        "contact": "0262 222 261"
+    },
+    {
+        "name": "District hospital passara",
+        "latitude": 6.9335477,
+        "longitude": 81.1525723,
+        "contact": "0552 288 261"
+    },
+    {
+        "name": "District Hospital Deltota",
+        "latitude": 7.170632999999999,
+        "longitude": 80.7000709,
+        "contact": "0812 467 261"
+    },
+    {
+        "name": "Hettipola Divisional Hospital",
+        "latitude": 7.605344700000001,
+        "longitude": 80.0789545,
+        "contact": "0372 291 061"
+    },
+    {
+        "name": "Anamaduwa Base Hospital",
+        "latitude": 7.885088799999999,
+        "longitude": 80.0024897,
+        "contact": "0322 263 261"
+    },
+    {
+        "name": "National Hospital - Kandy",
+        "latitude": 7.2876155,
+        "longitude": 80.6322636,
+        "contact": "0812 222 261"
+    },
+    {
+        "name": "General Hospital O P D",
+        "latitude": 6.919103199999999,
+        "longitude": 79.8671128,
+        "contact": "N/A"
+    },
+    {
+        "name": "Colombo South Teaching Hospital (Kalubowila)",
+        "latitude": 6.866900999999999,
+        "longitude": 79.8767944,
+        "contact": "0112 832 950"
+    },
+    {
+        "name": "Sri Jayewardenepura General Hospital",
+        "latitude": 6.868545999999999,
+        "longitude": 79.9254988,
+        "contact": "0112 778 610"
+    },
+    {
+        "name": "Hospital Services Council Sri Lanka",
+        "latitude": 6.9190646,
+        "longitude": 79.8695372,
+        "contact": "071 417 7714"
+    },
+    {
+        "name": "Base Hospital Karawanella",
+        "latitude": 7.0245298,
+        "longitude": 80.2617521,
+        "contact": "0362 266 261"
+    },
+    {
+        "name": "Teaching Hospital Peradeniya",
+        "latitude": 7.2662787,
+        "longitude": 80.5976541,
+        "contact": "0812 388 001"
+    },
+    {
+        "name": "Base Hospital (Teaching) - Gampola",
+        "latitude": 7.1561875,
+        "longitude": 80.5650625,
+        "contact": "0812 352 261"
+    },
+    {
+        "name": "Navy General Hospital (Colombo)",
+        "latitude": 7.0185236,
+        "longitude": 79.90082319999999,
+        "contact": "0113 818 078"
+    },
+    {
+        "name": "Kings Hospital Colombo",
+        "latitude": 6.8950539,
+        "longitude": 79.8794006,
+        "contact": "0117 743 743"
+    },
+    {
+        "name": "Castle Street Hospital for Women",
+        "latitude": 6.9106412,
+        "longitude": 79.8847681,
+        "contact": "0112 696 231"
+    },
+    {
+        "name": "General Hospital Aniyakanda",
+        "latitude": 7.0409171,
+        "longitude": 79.9025724,
+        "contact": "N/A"
+    },
+    {
+        "name": "Teaching Hospital Karapitiya, Galle",
+        "latitude": 6.0670728,
+        "longitude": 80.22607359999999,
+        "contact": "0912 232 267"
+    },
+    {
+        "name": "Accident Ward",
+        "latitude": 6.918572999999999,
+        "longitude": 79.8675923,
+        "contact": "0112 691 111"
+    },
+    {
+        "name": "National Health Complex, Sri Lanka",
+        "latitude": 6.8908575,
+        "longitude": 79.8773376,
+        "contact": "N/A"
+    },
+    {
+        "name": "hospital",
+        "latitude": 6.9194204,
+        "longitude": 79.8684723,
+        "contact": "N/A"
+    },
+    {
+        "name": "Colombo South Teaching Hospital - Kalubowila",
+        "latitude": 6.867623,
+        "longitude": 79.87635019999999,
+        "contact": "0112 832 950"
+    },
+    {
+        "name": "Rear Entrance Of Hospital",
+        "latitude": 6.8685613,
+        "longitude": 79.87523150000001,
+        "contact": "N/A"
+    },
+    {
+        "name": "Medical Intensive Care Unit and Medical Wards",
+        "latitude": 6.9178132,
+        "longitude": 79.8664051,
+        "contact": "N/A"
+    },
+    {
+        "name": "Ward 17 , National Hospital of Sri Lanka ( NHSL )",
+        "latitude": 6.9184284,
+        "longitude": 79.86994609999999,
+        "contact": "0112 691 111"
+    },
+    {
+        "name": "Army Hospital",
+        "latitude": 6.9000198,
+        "longitude": 79.875647,
+        "contact": "0112 697 218"
+    },
+    {
+        "name": "Base Hospital Mawanella",
+        "latitude": 7.253527,
+        "longitude": 80.44614179999999,
+        "contact": "0352 247 835"
+    },
+    {
+        "name": "District General Hospital Hambantota (old building)",
+        "latitude": 6.1267628,
+        "longitude": 81.12258179999999,
+        "contact": "0472 220 261"
+    },
+    {
+        "name": "Base Hospital Kahawatta",
+        "latitude": 6.5789139,
+        "longitude": 80.5752515,
+        "contact": "0452 270 261"
+    },
+    {
+        "name": "Base Hospital - Balapitiya",
+        "latitude": 6.2605907,
+        "longitude": 80.0381462,
+        "contact": "0912 258 261"
+    },
+    {
+        "name": "Base Hospital Panadura",
+        "latitude": 6.7215557,
+        "longitude": 79.90685119999999,
+        "contact": "0382 232 261"
+    },
+    {
+        "name": "New Delmon Hospital",
+        "latitude": 6.8709751,
+        "longitude": 79.86182280000001,
+        "contact": "0112 558 800"
+    },
+    {
+        "name": "Korea - Srilanka friendship Hospital",
+        "latitude": 5.969014899999999,
+        "longitude": 80.50023569999999,
+        "contact": "N/A"
+    },
+    {
+        "name": "Teaching Hospital Kurunegala",
+        "latitude": 7.479121800000001,
+        "longitude": 80.3591149,
+        "contact": "0372 222 261"
+    },
+    {
+        "name": "Base Hospital Kolonna",
+        "latitude": 6.406701000000001,
+        "longitude": 80.6907715,
+        "contact": "0452 260 261"
+    },
+    {
+        "name": "Teaching Hospital, Batticaloa",
+        "latitude": 7.708032299999998,
+        "longitude": 81.6906221,
+        "contact": "0652 222 261"
+    },
+    {
+        "name": "Teaching Hospital - Kegalle",
+        "latitude": 7.2477674,
+        "longitude": 80.3452533,
+        "contact": "0352 222 261"
+    },
+    {
+        "name": "Base Hospital Warakapola",
+        "latitude": 7.2252691,
+        "longitude": 80.1960934,
+        "contact": "0352 267 261"
+    },
+    {
+        "name": "National hospital new OPD building",
+        "latitude": 6.9190079,
+        "longitude": 79.8662623,
+        "contact": "N/A"
+    },
+    {
+        "name": "Ward 20 , National Hospital of Sri Lanka (NHSL)",
+        "latitude": 6.9183311,
+        "longitude": 79.8695764,
+        "contact": "0112 691 111"
+    },
+    {
+        "name": "Mihintale Hospital",
+        "latitude": 8.3550504,
+        "longitude": 80.50928689999999,
+        "contact": "0252 266 561"
+    },
+    {
+        "name": "Base Hospital Mahiyanganaya",
+        "latitude": 7.3254794,
+        "longitude": 80.99094269999999,
+        "contact": "0554 936 722"
+    },
+    {
+        "name": "Public Hospital",
+        "latitude": 6.803937899999999,
+        "longitude": 79.9227677,
+        "contact": "0112 614 264"
+    },
+    {
+        "name": "Base Hospital - Elpitiya",
+        "latitude": 6.293299600000001,
+        "longitude": 80.1640656,
+        "contact": "0912 291 261"
+    },
+    {
+        "name": "Base Hospital - Wathupitiwala",
+        "latitude": 7.123557,
+        "longitude": 80.109706,
+        "contact": "0332 280 261"
+    },
+    {
+        "name": "Siyabalanduwa Base Hospital",
+        "latitude": 6.905952699999999,
+        "longitude": 81.54858109999999,
+        "contact": "0552 279 460"
+    },
+    {
+        "name": "Base Hospital Kuliyapitiya",
+        "latitude": 7.471773,
+        "longitude": 80.045437,
+        "contact": "0372 281 261"
+    },
+    {
+        "name": "Base Hospital Dambadeniya",
+        "latitude": 7.348634799999999,
+        "longitude": 80.1373146,
+        "contact": "0372 266 842"
+    },
+    {
+        "name": "Base Hospital, Point Pedro",
+        "latitude": 9.805622099999999,
+        "longitude": 80.2247737,
+        "contact": "0212 263 261"
+    },
+    {
+        "name": "Army Base Hospital (Panagoda)",
+        "latitude": 6.847889899999999,
+        "longitude": 80.0163311,
+        "contact": "0112 855 178"
+    },
+    {
+        "name": "Base Hospital - Kebithigollewa",
+        "latitude": 8.6421175,
+        "longitude": 80.6679623,
+        "contact": "0252 298 661"
+    },
+    {
+        "name": "Base Hospital Udugama",
+        "latitude": 6.1877815,
+        "longitude": 80.34068189999999,
+        "contact": "0912 285 061"
+    },
+    {
+        "name": "Base Hospital Pottuvil",
+        "latitude": 6.8760911,
+        "longitude": 81.8304422,
+        "contact": "0632 248 061"
+    },
+    {
+        "name": "Base Hospital - Kaluwanchikudy",
+        "latitude": 7.5172402,
+        "longitude": 81.7851837,
+        "contact": "0652 250 061"
+    },
+    {
+        "name": "Base Hospital Balangoda",
+        "latitude": 6.658280299999999,
+        "longitude": 80.7124436,
+        "contact": "0452 287 261"
+    },
+    {
+        "name": "Base Hospital Kiribathgoda",
+        "latitude": 6.9835147,
+        "longitude": 79.9288893,
+        "contact": "0112 911 493"
+    },
+    {
+        "name": "Base Hospital - Kanthale",
+        "latitude": 8.3667027,
+        "longitude": 81.00479059999999,
+        "contact": "0262 234 261"
+    },
+    {
+        "name": "Base Hospital Mulankavil",
+        "latitude": 9.2434233,
+        "longitude": 80.14389419999999,
+        "contact": "0243 244 010"
+    },
+    {
+        "name": "Base Hospital Medirigiriya",
+        "latitude": 8.1432,
+        "longitude": 80.9671267,
+        "contact": "0272 248 261"
+    },
+    {
+        "name": "Base Hospital Akkaraipattu",
+        "latitude": 7.227771999999999,
+        "longitude": 81.850841,
+        "contact": "0672 277 213"
+    },
+    {
+        "name": "Base Hospital Thellippalai",
+        "latitude": 9.784384099999999,
+        "longitude": 80.0390355,
+        "contact": "0212 059 227"
+    },
+    {
+        "name": "Base Hospital-Wellawaya",
+        "latitude": 6.731114199999999,
+        "longitude": 81.098342,
+        "contact": "0552 274 861"
+    },
+    {
+        "name": "Base hospital",
+        "latitude": 7.413171999999999,
+        "longitude": 80.6720452,
+        "contact": "N/A"
+    },
+    {
+        "name": "Base Hospital, Nintavur",
+        "latitude": 7.353368799999999,
+        "longitude": 81.8569098,
+        "contact": "0672 250 061"
+    },
+    {
+        "name": "Mutur Base Hospital",
+        "latitude": 8.4545335,
+        "longitude": 81.2630179,
+        "contact": "0262 238 261"
+    },
+    {
+        "name": "Base Hospital - Pulmoddai",
+        "latitude": 8.9412038,
+        "longitude": 80.98313920000001,
+        "contact": "0262 256 102"
+    },
+    {
+        "name": "Base Hospital Homagama",
+        "latitude": 6.847288199999999,
+        "longitude": 79.99201409999999,
+        "contact": "0112 857 844"
+    },
+    {
+        "name": "Base Hospital Matale",
+        "latitude": 7.4620362,
+        "longitude": 80.6251798,
+        "contact": "0662 222 261"
+    },
+    {
+        "name": "Base Hospital",
+        "latitude": 7.253207000000001,
+        "longitude": 81.85378299999999,
+        "contact": "N/A"
+    },
+    {
+        "name": "Base Hospital Welimada",
+        "latitude": 6.908904600000001,
+        "longitude": 80.9091942,
+        "contact": "0572 245 385"
+    },
+    {
+        "name": "Base Hospital - Tissamaharama",
+        "latitude": 6.2852466,
+        "longitude": 81.2684893,
+        "contact": "0472 237 261"
+    },
+    {
+        "name": "Base Hospital Eheliyagoda",
+        "latitude": 6.848163,
+        "longitude": 80.2647136,
+        "contact": "0362 258 261"
+    },
+    {
+        "name": "Base Hospital Kekirawa",
+        "latitude": 8.0438335,
+        "longitude": 80.5958996,
+        "contact": "0252 264 261"
+    },
+    {
+        "name": "Base Hospital - Mallavi",
+        "latitude": 9.1346293,
+        "longitude": 80.30870019999999,
+        "contact": "0212 060 728"
+    },
+    {
+        "name": "Base Hospital Minuwangoda",
+        "latitude": 7.1722568,
+        "longitude": 79.956152,
+        "contact": "0112 295 261"
+    },
+    {
+        "name": "Base Hospital",
+        "latitude": 7.186764500000001,
+        "longitude": 81.84582999999999,
+        "contact": "N/A"
+    },
+    {
+        "name": "Base Hospital - Nikaweratiya",
+        "latitude": 7.7474755,
+        "longitude": 80.11444569999999,
+        "contact": "0372 260 261"
+    },
+    {
+        "name": "Base Hospital Hingurakgoda",
+        "latitude": 8.0460604,
+        "longitude": 80.9646569,
+        "contact": "0272 246 261"
+    },
+    {
+        "name": "Base Hospital Galewela",
+        "latitude": 7.760542,
+        "longitude": 80.5715522,
+        "contact": "N/A"
+    },
+    {
+        "name": "Galkiriyagama Base Hospital",
+        "latitude": 7.9382115,
+        "longitude": 80.5645035,
+        "contact": "N/A"
+    },
+    {
+        "name": "Base Hospital Sammanthurai",
+        "latitude": 7.368354999999999,
+        "longitude": 81.8130424,
+        "contact": "0672 260 261"
+    },
+    {
+        "name": "Base Hospital Kayts",
+        "latitude": 9.693164099999999,
+        "longitude": 79.86825999999999,
+        "contact": "N/A"
+    }
+]
